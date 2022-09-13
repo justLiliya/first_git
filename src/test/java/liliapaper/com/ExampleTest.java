@@ -14,6 +14,6 @@ public class ExampleTest {
 
     @Test
     public void someTest2(){
-        Assertions.assertTrue(3>2);
+        Assertions.assertTrue(10>2);
     }
 }
